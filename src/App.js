@@ -1,4 +1,3 @@
-import { Component } from "react";
 import { useState, useEffect } from "react";
 import CardList from "./components/card-list/card-list";
 import SearchBox from "./components/search-box/SearchBoxComponents";
